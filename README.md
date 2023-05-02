@@ -1,4 +1,4 @@
-<h1>Learning it 👀👋</h1? 
+<h1>Learning it 👀👋</h1>
 <br><br>
 [![My Skills](https://skillicons.dev/icons?i=js,react,redux,nextjs,styledcomponents,scss,nodejs,mongodb,figma)](https://skillicons.dev)
 <br><br>
