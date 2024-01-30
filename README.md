@@ -5,6 +5,6 @@ I learn it 👀👋<br><br>
 [![codewars](https://www.codewars.com/users/acidshotgun/badges/large)](https://www.codewars.com/users/acidshotgun)
 <br>
 <br>
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=acidshotgun&theme=dark)](https://github.com/acidshotgun/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=acidshotgun&theme=dark)](https://leetcode.com/acidshotgun/)
 
 
